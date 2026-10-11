@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Frontend+Architect+%26+Creative+Web+Developer;First-Principles+Thinker+%26+Tool+Builder;30+Repos+in+30+Days+Challenge+(Day+18%2F30);React+19+%C2%B7+Node.js+%C2%B7+GSAP+%C2%B7+Zero-Dependency+CLIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Frontend+Architect+%26+Creative+Web+Developer;First-Principles+Thinker+%26+Tool+Builder;30+Repos+in+30+Days+Challenge+(Day+20%2F30);React+19+%C2%B7+Node.js+%C2%B7+GSAP+%C2%B7+Zero-Dependency+CLIs" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,13 +36,15 @@ I am a **Frontend Engineer & Creative Web Developer** passionate about deconstru
 
 ## 🔥 30 Repos in 30 Days Challenge
 
-> **Challenge Progress: 18 / 30 Repos Completed (60%)**  
-> `██████████████████░░░░░░░░░░░░`
+> **Challenge Progress: 20 / 30 Repos Completed (66.7%)**  
+> `████████████████████░░░░░░░░░░`
 
 Every project is architected with **Zero external bloat**, native standard libraries, strict automated testing, isolated local ports (`3000 + N`), and clean developer ergonomics.
 
 | Day | Project | Description | Local Port | Stack / Highlights |
 | :---: | :--- | :--- | :---: | :--- |
+| **20** | **[json-morph](https://github.com/mahdyarmonfared/json-morph)** | Deep JSON structural diff engine, automated TypeScript interface generator & Web Studio | `3020` | Native Node.js, TS Generator, Diff Engine |
+| **19** | **[speed-dns](https://github.com/mahdyarmonfared/speed-dns)** | High-speed multi-resolver DNS latency benchmark, DoH tester & interactive Web Studio | `3019` | UDP Sockets, DoH Sockets, ASCII Charts |
 | **18** | **[meta-craft](https://github.com/mahdyarmonfared/meta-craft)** | Pixel-perfect social preview simulator (X, Facebook, LinkedIn, Google SERP, Discord) & meta tag generator | `3018` | Node.js, Web Studio, SEO Auditor |
 | **17** | **[mock-api-studio](https://github.com/mahdyarmonfared/mock-api-studio)** | Zero-dependency instant REST API mock server with full CRUD, filtering, pagination & Web Studio | `3017` | Native Node.js, RESTful CRUD |
 | **16** | **[webhook-catcher](https://github.com/mahdyarmonfared/webhook-catcher)** | Local HTTP webhook inspection server, debugger & real-time Web Studio with SSE live stream | `3016` | Server-Sent Events, Web Studio |

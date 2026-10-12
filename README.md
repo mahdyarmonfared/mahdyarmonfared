@@ -74,6 +74,9 @@ Every project is architected with **Zero external bloat**, native standard libra
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Rockstar Games Clone](https://github.com/mahdyarmonfared/rockstar-games-clone)** | High-fidelity recreation of the Rockstar Games portal featuring a custom **Vice City Neon Dark Mode**, physics-driven 0–100% before/after comparison slider, and responsive multi-device layouts. | React 19, Tailwind CSS, GSAP |
+| **[Boom Gaming Store](https://github.com/mahdyarmonfared/boom)** | Modern, ultra-fast Iranian E-Commerce SPA featuring component-based architecture, WebP asset optimization pipeline, responsive genre/platform filtering, and dark gaming aesthetic. | React 19, Tailwind v4, WebP, RTL |
+| **[Niro Motor Clone](https://github.com/mahdyarmonfared/niro-motor-clone)** | Interactive frontend engineering for Iran's premier motorcycle manufacturer with keyboard-driven quick search (`Ctrl+K`), technical comparison engine, and installment calculator. | SCSS, ES6+ JS, Modular CSS |
+| **[MarkFlow Resume](https://github.com/mahdyarmonfared/markflow-resume)** | Live dual-pane Markdown editor and vector-clean A4 PDF resume and documentation generator with instant typography preview and zero print artifacts. | React, Tailwind, Print CSS, PDF |
 | **[Cinematic Noir Portfolio](https://github.com/mahdyarmonfared/mahdyarmonfared.github.io)** | Personal engineering showcase featuring generative tube-amp Web Audio static synthesizers, true millisecond TTFB server latency auditors, and sub-pixel device simulators. | React 19, Vite 6, Tailwind v4, Web Audio API |
 
 </div>

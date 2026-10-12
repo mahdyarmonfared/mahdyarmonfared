@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Frontend+Architect+%26+Creative+Web+Developer;First-Principles+Thinker+%26+Tool+Builder;30+Repos+in+30+Days+Challenge+(Day+20%2F30);React+19+%C2%B7+Node.js+%C2%B7+GSAP+%C2%B7+Zero-Dependency+CLIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Frontend+Architect+%26+Creative+Web+Developer;First-Principles+Thinker+%26+Tool+Builder;30+Repos+in+30+Days+Challenge+(Day+21%2F30);React+19+%C2%B7+Node.js+%C2%B7+GSAP+%C2%B7+Zero-Dependency+CLIs" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,13 +36,14 @@ I am a **Frontend Engineer & Creative Web Developer** passionate about deconstru
 
 ## 🔥 30 Repos in 30 Days Challenge
 
-> **Challenge Progress: 20 / 30 Repos Completed (66.7%)**  
-> `████████████████████░░░░░░░░░░`
+> **Challenge Progress: 21 / 30 Repos Completed (70%)**  
+> `█████████████████████░░░░░░░░░`
 
 Every project is architected with **Zero external bloat**, native standard libraries, strict automated testing, isolated local ports (`3000 + N`), and clean developer ergonomics.
 
 | Day | Project | Description | Local Port | Stack / Highlights |
 | :---: | :--- | :--- | :---: | :--- |
+| **21** | **[regex-pal-plain](https://github.com/mahdyarmonfared/regex-pal-plain)** | Plain-English regex explainer, live visual match highlighting & multi-language codegen | `3021` | Native Node.js, Regex Parser, Web Studio |
 | **20** | **[json-morph](https://github.com/mahdyarmonfared/json-morph)** | Deep JSON structural diff engine, automated TypeScript interface generator & Web Studio | `3020` | Native Node.js, TS Generator, Diff Engine |
 | **19** | **[speed-dns](https://github.com/mahdyarmonfared/speed-dns)** | High-speed multi-resolver DNS latency benchmark, DoH tester & interactive Web Studio | `3019` | UDP Sockets, DoH Sockets, ASCII Charts |
 | **18** | **[meta-craft](https://github.com/mahdyarmonfared/meta-craft)** | Pixel-perfect social preview simulator (X, Facebook, LinkedIn, Google SERP, Discord) & meta tag generator | `3018` | Node.js, Web Studio, SEO Auditor |

@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Frontend+Architect+%26+Creative+Web+Developer;First-Principles+Thinker+%26+Tool+Builder;30+Repos+in+30+Days+Challenge+(Day+22%2F30);React+19+%C2%B7+Node.js+%C2%B7+GSAP+%C2%B7+Zero-Dependency+CLIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Frontend+Architect+%26+Creative+Web+Developer;First-Principles+Thinker+%26+Tool+Builder;30+Repos+in+30+Days+Challenge+(Day+23%2F30);React+19+%C2%B7+Node.js+%C2%B7+GSAP+%C2%B7+Zero-Dependency+CLIs" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,13 +36,14 @@ I am a **Frontend Engineer & Creative Web Developer** passionate about deconstru
 
 ## 🔥 30 Repos in 30 Days Challenge
 
-> **Challenge Progress: 22 / 30 Repos Completed (73.3%)**  
-> `██████████████████████░░░░░░░░`
+> **Challenge Progress: 23 / 30 Repos Completed (76.7%)**  
+> `███████████████████████░░░░░░░`
 
 Every project is architected with **Zero external bloat**, native standard libraries, strict automated testing, isolated local ports (`3000 + N`), and clean developer ergonomics.
 
 | Day | Project | Description | Local Port | Stack / Highlights |
 | :---: | :--- | :--- | :---: | :--- |
+| **23** | **[subsync-kit](https://github.com/mahdyarmonfared/subsync-kit)** | Subtitle time-shifter, millisecond audio resync & Windows-1256 to UTF-8 repair | `3023` | Native Node.js, Encoding Repair, SRT Parser |
 | **22** | **[jalali-kit](https://github.com/mahdyarmonfared/jalali-kit)** | Zero-dependency Persian/Jalali date toolkit, terminal calendar & Web Studio | `3022` | Native Node.js, Calendar Matrix, Converter |
 | **21** | **[regex-pal-plain](https://github.com/mahdyarmonfared/regex-pal-plain)** | Plain-English regex explainer, live visual match highlighting & multi-language codegen | `3021` | Native Node.js, Regex Parser, Web Studio |
 | **20** | **[json-morph](https://github.com/mahdyarmonfared/json-morph)** | Deep JSON structural diff engine, automated TypeScript interface generator & Web Studio | `3020` | Native Node.js, TS Generator, Diff Engine |

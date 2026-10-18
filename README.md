@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Frontend+Architect+%26+Creative+Web+Developer;First-Principles+Thinker+%26+Tool+Builder;30+Repos+in+30+Days+Challenge+(Day+25%2F30);React+19+%C2%B7+Node.js+%C2%B7+GSAP+%C2%B7+Zero-Dependency+CLIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Frontend+Architect+%26+Creative+Web+Developer;First-Principles+Thinker+%26+Tool+Builder;30+Repos+in+30+Days+Challenge+(Day+26%2F30);React+19+%C2%B7+Node.js+%C2%B7+GSAP+%C2%B7+Zero-Dependency+CLIs" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,13 +36,14 @@ I am a **Frontend Engineer & Creative Web Developer** passionate about deconstru
 
 ## 🔥 30 Repos in 30 Days Challenge
 
-> **Challenge Progress: 25 / 30 Repos Completed (83.3%)**  
-> `█████████████████████████░░░░░`
+> **Challenge Progress: 26 / 30 Repos Completed (86.7%)**  
+> `██████████████████████████░░░░`
 
 Every project is architected with **Zero external bloat**, native standard libraries, strict automated testing, isolated local ports (`3000 + N`), and clean developer ergonomics.
 
 | Day | Project | Description | Local Port | Stack / Highlights |
 | :---: | :--- | :--- | :---: | :--- |
+| **26** | **[battery-health-alert](https://github.com/mahdyarmonfared/battery-health-alert)** | Battery telemetry monitor, 80/20 lifespan health guardian & Web Studio | `3026` | Native Node.js, OS Telemetry, Web Audio Synth, Web Studio |
 | **25** | **[pwd-gen-pro](https://github.com/mahdyarmonfared/pwd-gen-pro)** | CSPRNG password & Diceware passphrase generator, Shannon entropy analyzer & Web Studio | `3025` | Native Node.js, Web Crypto, Diceware, Web Studio |
 | **24** | **[linkrot-scanner](https://github.com/mahdyarmonfared/linkrot-scanner)** | Dead link scanner, HTML bookmark auditor, Markdown 404 detector & Web Studio | `3024` | Native Node.js, Concurrent Worker Pool, Web Studio |
 | **23** | **[subsync-kit](https://github.com/mahdyarmonfared/subsync-kit)** | Subtitle time-shifter, millisecond audio resync & Windows-1256 to UTF-8 repair | `3023` | Native Node.js, Encoding Repair, SRT Parser |
